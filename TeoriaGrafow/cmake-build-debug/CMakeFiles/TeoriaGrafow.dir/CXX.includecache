@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/FiFi/CLionProjects/TeoriaGrafow/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+sstream
+-
+vector
+-
+

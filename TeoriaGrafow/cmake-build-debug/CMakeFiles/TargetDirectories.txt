@@ -1,0 +1,3 @@
+C:/Users/FiFi/CLionProjects/TeoriaGrafow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/FiFi/CLionProjects/TeoriaGrafow/cmake-build-debug/CMakeFiles/TeoriaGrafow.dir
+C:/Users/FiFi/CLionProjects/TeoriaGrafow/cmake-build-debug/CMakeFiles/edit_cache.dir
